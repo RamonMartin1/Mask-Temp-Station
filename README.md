@@ -15,9 +15,6 @@ To solve these problems there is a raspberry pi project that automates the proce
 ![screenshot1](https://github.com/RamonMartin1/Mask-Temp-Station/blob/master/Screen%20Shot%202020-12-03%20at%2013.15.57.png)
 ![screenshot2](https://github.com/RamonMartin1/Mask-Temp-Station/blob/master/Screen%20Shot%202020-12-03%20at%2013.15.42.png)
 
-## Features
-
-* Get anime recommendations for a MyAnimeList user ID **(only works on anime and user IDs scraped from MyAnimeList.net)** 
 
 ## Technologies
 
